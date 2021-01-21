@@ -10,6 +10,7 @@
 5. [복잡한 식을 쓰는 대신 도우미 함수를 작성하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter1/better_way_5.ipynb)
 6. [인덱스를 사용하는 대신 대입을 사용해 데이터를 언패킹하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter1/better_way_6.ipynb)
 7. [range보다는 enumerate를 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter1/better_way_7.ipynb)
+8. [여러 이터레이터에 대해 나란히 루프를 수행하려면 zip을 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter1/better_way_8.ipynb)
 
 ## Reference
 https://github.com/bslatkin/effectivepython  
