@@ -11,6 +11,8 @@
 6. [인덱스를 사용하는 대신 대입을 사용해 데이터를 언패킹하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter1/better_way_6.ipynb)
 7. [range보다는 enumerate를 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter1/better_way_7.ipynb)
 8. [여러 이터레이터에 대해 나란히 루프를 수행하려면 zip을 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter1/better_way_8.ipynb)
+9. [for나 while 루프 뒤에 else 블록을 사용하지 말라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter1/better_way_9.ipynb)
+10. [대입식(:=)을 사용해 반복을 피하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter1/better_way_10.ipynb)
 
 ## Reference
 https://github.com/bslatkin/effectivepython  
