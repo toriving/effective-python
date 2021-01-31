@@ -15,9 +15,9 @@
 10. [대입식(:=)을 사용해 반복을 피하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter1/better_way_10.ipynb)
 
 ## Chapter 2.
-11. [시퀀스를 슬라이싱하는 방법을 익혀라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter1/better_way_11.ipynb)
-12. [스트라이드와 슬라이스를 한 식에 함께 사용하지 말라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter1/better_way_12.ipynb)
-13. [슬라이싱보다는 나머지를 모두 잡아내는 언패킹을 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter1/better_way_13.ipynb)
+11. [시퀀스를 슬라이싱하는 방법을 익혀라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter2/better_way_11.ipynb)
+12. [스트라이드와 슬라이스를 한 식에 함께 사용하지 말라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter2/better_way_12.ipynb)
+13. [슬라이싱보다는 나머지를 모두 잡아내는 언패킹을 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter2/better_way_13.ipynb)
 
 ## Reference
 https://github.com/bslatkin/effectivepython  
