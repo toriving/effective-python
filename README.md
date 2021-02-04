@@ -21,6 +21,8 @@
 14. [복잡한 기준을 사용해 정렬할 때는 key 파라미터를 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter2/better_way_14.ipynb)
 15. [딕셔너리 삽입 순서에 의존할 떄는 조심하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter2/better_way_15.ipynb)
 16. [in을 사용하고 딕셔너리 키가 없을 때 KeyError를 처리하기보다는 get을 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter2/better_way_16.ipynb)
+17. [내부 상태에서 원소가 없는 경우를 처리할 때는 setdefault보다 defaultdict을 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter2/better_way_17.ipynb)
+18. [\_\_missing\_\_ 을 사용해 키에 따라 다른 디폴트 값을 생성하는 방법을 알아두라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter2/better_way_18.ipynb)
 
 ## Reference
 https://github.com/bslatkin/effectivepython  
