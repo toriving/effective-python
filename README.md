@@ -24,6 +24,9 @@
 17. [내부 상태에서 원소가 없는 경우를 처리할 때는 setdefault보다 defaultdict을 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter2/better_way_17.ipynb)
 18. [\_\_missing\_\_ 을 사용해 키에 따라 다른 디폴트 값을 생성하는 방법을 알아두라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter2/better_way_18.ipynb)
 
+## Chapter 3.
+19. [함수가 여러 값을 반환하는 경우 절대로 네 값 이상을 언패킹하지 말라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter3/better_way_19.ipynb)
+
 ## Reference
 https://github.com/bslatkin/effectivepython  
 https://github.com/gilbutITbook/080235
