@@ -27,6 +27,7 @@
 ## Chapter 3.
 19. [함수가 여러 값을 반환하는 경우 절대로 네 값 이상을 언패킹하지 말라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter3/better_way_19.ipynb)
 20. [None을 반환하기보다는 예외를 발생시켜라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter3/better_way_20.ipynb) 🔥
+21. [변수 영역과 클로저의 상호작용 방식을 이해하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter3/better_way_21.ipynb) 🔥
 
 ## Reference
 https://github.com/bslatkin/effectivepython  
