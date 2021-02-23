@@ -31,7 +31,7 @@
 22. [변수 위치 인자를 사용해 시각적인 잡음을 줄여라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter3/better_way_22.ipynb)
 23. [키워드 인자로 선택적인 기능을 제공하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter3/better_way_23.ipynb)
 24. [None과 독스트링을 사용해 동적인 디폴트 인자를 지정하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter3/better_way_24.ipynb)
-25. [위치로만 인자를 지정하게 하거나 키워드로만 인자를 지정하게 해서 함수 호출을 명확하게 만들라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter3/better_way_25.ipynb)
+25. [위치로만 인자를 지정하게 하거나 키워드로만 인자를 지정하게 해서 함수 호출을 명확하게 만들라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter3/better_way_25.ipynb) 🔥
 
 ## Reference
 https://github.com/bslatkin/effectivepython  
