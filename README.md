@@ -34,6 +34,9 @@
 25. [위치로만 인자를 지정하게 하거나 키워드로만 인자를 지정하게 해서 함수 호출을 명확하게 만들라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter3/better_way_25.ipynb) 🔥
 26. [functools.wrap을 사용해 함수 데코레이터를 정의하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter3/better_way_26.ipynb) 🔥
 
+## Chapter 4.
+27. [map과 filter 대신 컴프리헨션을 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_27.ipynb)
+
 ## Reference
 https://github.com/bslatkin/effectivepython  
 https://github.com/gilbutITbook/080235
