@@ -37,6 +37,7 @@
 ## Chapter 4.
 27. [map과 filter 대신 컴프리헨션을 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_27.ipynb)
 28. [컴프리헨션 내부에 제어 하위 식을 세개 이상 사용하지 말라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_28.ipynb)
+28. [대입식을 사용해 컴프리헨션 안에서 반복 작업을 피하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_29.ipynb)
 
 ## Reference
 https://github.com/bslatkin/effectivepython  
