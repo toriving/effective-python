@@ -39,6 +39,7 @@
 28. [컴프리헨션 내부에 제어 하위 식을 세개 이상 사용하지 말라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_28.ipynb)
 29. [대입식을 사용해 컴프리헨션 안에서 반복 작업을 피하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_29.ipynb)
 30. [리스트를 반환하기보다는 제너레이터를 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_30.ipynb) 🔥
+31. [인자에 대해 이터레이션할 떄는 방어적이 돼라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_31.ipynb) 🔥
 
 ## Reference
 https://github.com/bslatkin/effectivepython  
