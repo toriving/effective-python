@@ -43,6 +43,7 @@
 31. [인자에 대해 이터레이션할 때는 방어적이 돼라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_31.ipynb) 🔥
 32. [긴 리스트 컴프리헨션보다는 제너레이터 식을 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_32.ipynb) 🔥
 33. [yield from을 사용해 여러 제너레이터를 합성하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_33.ipynb) 🔥
+34. [send로 제너레이터에 데이터를 주입하지 말라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_34.ipynb) 🔥
 
 ## Reference
 https://github.com/bslatkin/effectivepython  
