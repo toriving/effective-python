@@ -44,6 +44,7 @@
 32. [긴 리스트 컴프리헨션보다는 제너레이터 식을 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_32.ipynb) 🔥
 33. [yield from을 사용해 여러 제너레이터를 합성하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_33.ipynb) 🔥
 34. [send로 제너레이터에 데이터를 주입하지 말라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_34.ipynb) 🔥
+35. [제너레이터 안에서 throw로 상태를 변화시키지 말라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_35.ipynb) 🔥
 
 ## Reference
 https://github.com/bslatkin/effectivepython  
