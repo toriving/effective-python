@@ -48,7 +48,7 @@
 36. [이터레이터나 제너레이터를 다룰 때는 itertools를 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_36.ipynb) 🔥 
 
 ## Chapter 5.
-37. [내장 타입을 여러 단계로 내포시키보다는 클래스를 합성하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter5/better_way_37.ipynb)
+37. [내장 타입을 여러 단계로 내포시키보다는 클래스를 합성하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter5/better_way_37.ipynb) 🔥 
 
 
 ## Reference
