@@ -2,7 +2,7 @@
 
 챕터별 jupyter notebook 정리
 
-## Chapter 1.
+## Chapter 1. 파이썬답게 생각하기
 1. [사용중인 파이썬 버전을 알아두라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter1/better_way_1.ipynb)
 2. [PEP 8 스타일 가이드를 따르라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter1/better_way_2.ipynb) 🔥
 3. [bytes와 str의 차이를 알아두라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter1/better_way_3.ipynb)
@@ -14,7 +14,7 @@
 9. [for나 while 루프 뒤에 else 블록을 사용하지 말라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter1/better_way_9.ipynb)
 10. [대입식(:=)을 사용해 반복을 피하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter1/better_way_10.ipynb) 🔥
 
-## Chapter 2.
+## Chapter 2. 리스트와 딕셔너리
 11. [시퀀스를 슬라이싱하는 방법을 익혀라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter2/better_way_11.ipynb)
 12. [스트라이드와 슬라이스를 한 식에 함께 사용하지 말라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter2/better_way_12.ipynb)
 13. [슬라이싱보다는 나머지를 모두 잡아내는 언패킹을 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter2/better_way_13.ipynb) 🔥
@@ -24,7 +24,7 @@
 17. [내부 상태에서 원소가 없는 경우를 처리할 때는 setdefault보다 defaultdict을 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter2/better_way_17.ipynb)
 18. [\_\_missing\_\_ 을 사용해 키에 따라 다른 디폴트 값을 생성하는 방법을 알아두라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter2/better_way_18.ipynb) 🔥
 
-## Chapter 3.
+## Chapter 3. 함수
 19. [함수가 여러 값을 반환하는 경우 절대로 네 값 이상을 언패킹하지 말라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter3/better_way_19.ipynb)
 20. [None을 반환하기보다는 예외를 발생시켜라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter3/better_way_20.ipynb) 🔥
 21. [변수 영역과 클로저의 상호작용 방식을 이해하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter3/better_way_21.ipynb) 🔥
@@ -34,7 +34,7 @@
 25. [위치로만 인자를 지정하게 하거나 키워드로만 인자를 지정하게 해서 함수 호출을 명확하게 만들라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter3/better_way_25.ipynb) 🔥
 26. [functools.wrap을 사용해 함수 데코레이터를 정의하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter3/better_way_26.ipynb) 🔥
 
-## Chapter 4.
+## Chapter 4. 컴프리헨션과 제너레이터
 27. [map과 filter 대신 컴프리헨션을 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_27.ipynb)
 28. [컴프리헨션 내부에 제어 하위 식을 세개 이상 사용하지 말라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_28.ipynb)
 29. [대입식을 사용해 컴프리헨션 안에서 반복 작업을 피하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_29.ipynb)
@@ -47,7 +47,7 @@
 35. [제너레이터 안에서 throw로 상태를 변화시키지 말라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_35.ipynb) 🔥
 36. [이터레이터나 제너레이터를 다룰 때는 itertools를 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter4/better_way_36.ipynb) 🔥 
 
-## Chapter 5.
+## Chapter 5. 클래스와 인터페이스
 37. [내장 타입을 여러 단계로 내포시키보다는 클래스를 합성하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter5/better_way_37.ipynb) 🔥 
 
 
