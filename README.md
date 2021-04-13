@@ -49,7 +49,7 @@
 
 ## Chapter 5. 클래스와 인터페이스
 37. [내장 타입을 여러 단계로 내포시키보다는 클래스를 합성하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter5/better_way_37.ipynb) 🔥 
-
+38. [간단한 인터페이스의 경우 클래스 대신 함수를 받아라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter5/better_way_38.ipynb) 🔥 
 
 ## Reference
 https://github.com/bslatkin/effectivepython  
