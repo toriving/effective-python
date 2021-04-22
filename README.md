@@ -52,6 +52,7 @@
 38. [간단한 인터페이스의 경우 클래스 대신 함수를 받아라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter5/better_way_38.ipynb) 🔥 
 39. [객체를 제너릭하게 꾸성하려면 @classmethod를 통한 다형성을 활용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter5/better_way_39.ipynb) 🔥 
 40. [super로 부모 클래스를 초기화하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter5/better_way_40.ipynb) 🔥 
+41. [기능을 합성할 때는 믹스인 클래스를 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter5/better_way_41.ipynb) 🔥 
 
 ## Reference
 https://github.com/bslatkin/effectivepython  
