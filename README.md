@@ -54,6 +54,8 @@
 40. [super로 부모 클래스를 초기화하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter5/better_way_40.ipynb) 🔥 
 41. [기능을 합성할 때는 믹스인 클래스를 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter5/better_way_41.ipynb) 🔥 
 42. [비공개 애트리뷰트보다는 공개 애트리뷰트를 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter5/better_way_42.ipynb) 🔥 
+43. [커스텀 컨테이너 타입은 collections.abc를 상속하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter5/better_way_43.ipynb) 🔥 
+
 
 ## Reference
 https://github.com/bslatkin/effectivepython  
