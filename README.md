@@ -56,6 +56,9 @@
 42. [비공개 애트리뷰트보다는 공개 애트리뷰트를 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter5/better_way_42.ipynb) 🔥 
 43. [커스텀 컨테이너 타입은 collections.abc를 상속하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter5/better_way_43.ipynb) 🔥 
 
+## Chapter 6. 메타클래스와 애트리뷰트
+44. [세터와 게터 메서드 대신 평범한 애트리뷰트를 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter6/better_way_44.ipynb) 🔥 
+
 
 ## Reference
 https://github.com/bslatkin/effectivepython  
