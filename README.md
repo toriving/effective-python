@@ -59,6 +59,7 @@
 ## Chapter 6. 메타클래스와 애트리뷰트
 44. [세터와 게터 메서드 대신 평범한 애트리뷰트를 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter6/better_way_44.ipynb) 🔥 
 45. [애트리뷰트를 리팩터링하는 대신 @property를 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter6/better_way_45.ipynb) 🔥 
+46. [재사용 가능한 @property 메서드를 만들려면 디스크립터를 사용하라](https://nbviewer.jupyter.org/github/toriving/effective-python/blob/main/chapter6/better_way_46.ipynb) 🔥 
 
 
 ## Reference
